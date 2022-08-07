@@ -1,0 +1,1 @@
+{"version":3,"file":"block1.css","mappings":";;;AAAA;EACE;AACF,C","sources":["webpack://bsd-plugin/./src/block1/editor.scss"],"sourcesContent":[".random-class {\n  color: green;\n}"],"names":[],"sourceRoot":""}
